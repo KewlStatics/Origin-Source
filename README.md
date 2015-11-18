@@ -1,8 +1,8 @@
 # Origin-Source
 
 [![Build Status](https://api.travis-ci.org/Origin-Devs/Origin-Source.svg)](https://travis-ci.org/Origin-Devs/Origin-Source)
-[![Dependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate)
-[![devDependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate/dev-status.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate#info=devDependencies)
+[![Dependency Status](https://david-dm.org/Origin-Devs/Origin-Source.svg)](https://david-dm.org/Origin-Devs/Origin-Source#info=dependencies&view=table)
+[![devDependency Status](https://david-dm.org/Origin-Devs/Origin-Source/dev-status.svg)](https://david-dm.org/Origin-Devs/Origin-Source#info=devDependencies&view=table)
 
 This repository was made to allow open source contribution to the Origin server and to allow for users interested in joinign the Origin dev team to show their stuff. 
 
