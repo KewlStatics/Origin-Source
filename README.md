@@ -1,6 +1,6 @@
 # Origin-Source
 
-[![Build Status](https://travis-ci.org/Origin-Devs/Origin-Source)](https://travis-ci.org/Origin-Devs/Origin-Source)
+[![Build Status](https://api.travis-ci.org/Origin-Devs/Origin-Source.svg)](https://travis-ci.org/Origin-Devs/Origin-Source)
 [![Dependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate)
 [![devDependency Status](https://david-dm.org/CreaturePhil/Showdown-Boilerplate/dev-status.svg)](https://david-dm.org/CreaturePhil/Showdown-Boilerplate#info=devDependencies)
 
