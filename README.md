@@ -4,7 +4,7 @@
 [![Dependency Status](https://david-dm.org/Origin-Devs/Origin-Source.svg)](https://david-dm.org/Origin-Devs/Origin-Source#info=dependencies&view=table)
 [![devDependency Status](https://david-dm.org/Origin-Devs/Origin-Source/dev-status.svg)](https://david-dm.org/Origin-Devs/Origin-Source#info=devDependencies&view=table)
 
-This repository was made to allow open source contribution to the Origin server and to allow for users interested in joinign the Origin dev team to show their stuff. 
+This repository was made to allow open source contribution to the Origin server and to allow for users interested in joining the Origin dev team to show their stuff. 
 
 For more information on Pokémon Showdown, visit the main
 [Pokémon Showdown](https://github.com/Zarel/Pokemon-Showdown) repository.
