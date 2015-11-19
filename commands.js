@@ -750,6 +750,13 @@ exports.commands = {
 				return this.errorReply("/" + cmd + " - Access denied for promoting/demoting to " + Config.groups[nextGroup].name + ".");
 			}
 		}
+		
+		if ((!room.isPrivate || !room.battle || !room.isPersonal) && targetUser.locked) {
+			Monitor.log("[CrisisMonitor] " + user.name + " was automatically demoted for trying to promote locked user: " + targetUser.name + ".");
+			delete room.auth[user.userid];
+			user.updateIdentity(room.id);
+			return this.errorReply("You have been automatically deauthed for trying to promote locked user: '" + name + "'.");
+		}
 
 		if (nextGroup === ' ') {
 			delete room.auth[userid];
