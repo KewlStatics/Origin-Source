@@ -750,7 +750,6 @@ exports.commands = {
 				return this.errorReply("/" + cmd + " - Access denied for promoting/demoting to " + Config.groups[nextGroup].name + ".");
 			}
 		}
-		
 		if ((!room.isPrivate || !room.battle || !room.isPersonal) && targetUser.locked) {
 			Monitor.log("[CrisisMonitor] " + user.name + " was automatically demoted for trying to promote locked user: " + targetUser.name + ".");
 			delete room.auth[user.userid];
