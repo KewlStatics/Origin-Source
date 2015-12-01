@@ -22,6 +22,14 @@ $ cd Origin-Source && npm install
 $ node app.js
 ```
 
+## Developers
+
+This open source is brought to you and maintained by the following people:
+
+[![Nineage](https://avatars3.githubusercontent.com/u/5535378?v=3&s=460)](http://github.com/Nineage) | [![Fender](https://avatars2.githubusercontent.com/u/8406186?v=3&s=460)](https://github.com/TheFenderStory) | [![Austin](https://avatars3.githubusercontent.com/u/12387820?v=3&s=460)](https://github.com/AustinXII)
+:---:|:---:|:---:|:---:|:---:
+[Nineage](https://github.com/Nineage) | [Fender](https://github.com/TheFenderStory) | [Austin](https://github.com/AustinXII)
+
 ## License
 
 [MIT](LICENSE)
